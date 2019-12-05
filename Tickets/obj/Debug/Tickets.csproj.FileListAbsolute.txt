@@ -1,0 +1,7 @@
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\bin\Debug\Tickets.exe
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\bin\Debug\Tickets.pdb
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\obj\Debug\Tickets.exe
+C:\Users\leander.mosilva\Desktop\ticket\tickets\Tickets\obj\Debug\Tickets.pdb
